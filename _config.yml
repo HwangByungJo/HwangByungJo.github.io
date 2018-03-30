@@ -44,8 +44,8 @@ baseurl: "/HwangByungJo.github.io" # the subpath of your site, e.g. /blog
 url: "https://github.com/hwangByungJo" # the base hostname & protocol for your site
 
 # Social settings
-facebook_url:
-github_url:
+facebook_url: "https://www.facebook.com/byungjo.hwang"
+github_url: "https://github.com/hwangByungJo"
 googleplus_url:
 instagram_url:
 linkedin_url:
