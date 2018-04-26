@@ -1,8 +1,9 @@
 
 ---
-title: Hello World
-author: HwangByungJo
+title: First Post
+author: HelloWorld
 layout: post
 ---
 
-hello world ;_
+
+Hello World!
