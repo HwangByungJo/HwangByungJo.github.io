@@ -1,7 +1,8 @@
 
+
 ---
-title: First Post
-author: HelloWorld
+title: HelloWorld
+author: HwangByungJo
 layout: post
 ---
 
