@@ -6,16 +6,6 @@ icon: fa-book
 order: 3
 ---
 
-#이력서
-
-Blog : http://ideveloper.tistory.com
-
-facebook: https://www.facebook.com/byungjo.hwang
-
-Github: https://github.com/HwangByungJo
-
-
-
 # 이력서
 
 Blog : http://ideveloper.tistory.com
