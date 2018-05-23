@@ -1,5 +1,5 @@
 ---
-title: 이력서
+title: resume
 subtitle: 
 layout: "page"
 icon: fa-book
