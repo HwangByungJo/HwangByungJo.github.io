@@ -7,11 +7,11 @@ order: 3
 ---
 
 
-Blog : http://ideveloper.tistory.com
+Blog : [http://ideveloper.tistory.com](http://ideveloper.tistory.com)
 
-facebook: https://www.facebook.com/byungjo.hwang
+facebook: [https://www.facebook.com/byungjo.hwang](https://www.facebook.com/byungjo.hwang)
 
-Github: https://github.com/HwangByungJo
+Github: [https://github.com/HwangByungJo](https://github.com/HwangByungJo)
 
 
 
@@ -54,14 +54,14 @@ Github: https://github.com/HwangByungJo
 - 소속 : 북팔
 - 역할 : iOS 앱 개발
 - 사용기술 : iOS, Realm, FCM 
-- AppStore (https: https://itunes.apple.com/kr/app/%EB%B6%81%ED%8C%94-%EC%9B%B9%EC%86%8C%EC%84%A4/id898129838?mt=8)
+- [AppStore](https: https://itunes.apple.com/kr/app/%EB%B6%81%ED%8C%94-%EC%9B%B9%EC%86%8C%EC%84%A4/id898129838?mt=8)
 
 ### 북팔판타지
 
 - 소속 : 북팔
 - 역할 : iOS 앱 개발
 - 사용기술 : iOS, Realm, FCM 
-- AppStore (https://itunes.apple.com/kr/app/%EB%B6%81%ED%8C%94%ED%8C%90%ED%83%80%EC%A7%80/id1094115877?mt=8)
+- [AppStore](https://itunes.apple.com/kr/app/%EB%B6%81%ED%8C%94%ED%8C%90%ED%83%80%EC%A7%80/id1094115877?mt=8)
 
 
 
@@ -70,7 +70,7 @@ Github: https://github.com/HwangByungJo
 - 소속: 북팔
 - 역할: iOS 앱 개발 (텔레그램 오픈소스을 이용하여 앱제작, 채팅 방 분류 탭 기능 추가)
 - 사용기술: iOS
-- AppStore(https://itunes.apple.com/kr/app/8talk-for-telegram/id1237423645?mt=8)
+- [AppStore](https://itunes.apple.com/kr/app/8talk-for-telegram/id1237423645?mt=8)
 
 
 
@@ -79,7 +79,7 @@ Github: https://github.com/HwangByungJo
 - 소속 : 현원소프트
 - 역할 : iOS 앱 개발
 - 사용기술 : iOS
-- AppStore : (https://itunes.apple.com/kr/app/kaffa/id724295322?mt=8)
+- [AppStore](https://itunes.apple.com/kr/app/kaffa/id724295322?mt=8)
 
 
 
