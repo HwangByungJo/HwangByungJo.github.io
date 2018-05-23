@@ -6,7 +6,6 @@ icon: fa-book
 order: 3
 ---
 
-# 이력서
 
 Blog : http://ideveloper.tistory.com
 
