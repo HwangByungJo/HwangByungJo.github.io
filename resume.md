@@ -117,10 +117,11 @@ Github: [https://github.com/HwangByungJo](https://github.com/HwangByungJo)
 - 서비스 종료
 
 #### iPad
-<img src="assets/images/screenshot/honer_iPad_01.png" width="160"/> <img src="assets/images/screenshot/honer_iPad_02.png" width="160"/> <img src="assets/images/screenshot/honer_iPad_03.png" width="160"/> <img src="assets/images/screenshot/honer_iPad_04.png" width="160"/>
+<img src="assets/images/screenshot/honor_iPad_01.png" width="160"/> <img src="assets/images/screenshot/honor_iPad_02.png" width="160"/> <img src="assets/images/screenshot/honor_iPad_03.png" width="160"/> <img src="assets/images/screenshot/honor_iPad_04.png" width="160"/>
 
 #### iPhone
-<img src="assets/images/screenshot/honer_iPhone_01.png" width="160"/> <img src="assets/images/screenshot/honer_iPhone_02.png" width="160"/> <img src="assets/images/screenshot/honer_iPhone_03.png" width="160"/> <img src="assets/images/screenshot/honer_iPhone_04.png" width="160"/> 
+<img src="assets/images/screenshot/honor_iPhone_01.png" width="160"/> <img src="assets/images/screenshot/honor_iPhone_02.png" width="160"/> <img src="assets/images/screenshot/honor_iPhone_03.png" width="160"/> <img src="assets/images/screenshot/honor_iPhone_04.png" width="160"/> 
+
 ### B2Y (iPhone, iPad)
 
 - 소속 : 인티그램
