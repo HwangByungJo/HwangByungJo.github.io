@@ -6,7 +6,6 @@ icon: fa-book
 order: 3
 ---
 
-# 이력서
 
 Blog : [http://ideveloper.tistory.com](http://ideveloper.tistory.com)
 
@@ -90,11 +89,7 @@ Github: [https://github.com/HwangByungJo](https://github.com/HwangByungJo)
 - 사용기술 : iOS
 - [AppStore](https://itunes.apple.com/kr/app/kaffa/id724295322?mt=8)
 
-<img src="assets/images/screenshot/kaffa_01.png" width="160"/>
-<img src="assets/images/screenshot/kaffa_02.png" width="160"/>
-<img src="assets/images/screenshot/kaffa_03.png" width="160"/>
-<img src="assets/images/screenshot/kaffa_04.png" width="160"/>
-<img src="assets/images/screenshot/kaffa_05.png" width="160"/>
+<img src="assets/images/screenshot/kaffa_01.png" width="160"/> <img src="assets/images/screenshot/kaffa_02.png" width="160"/> <img src="assets/images/screenshot/kaffa_03.png" width="160"/> <img src="assets/images/screenshot/kaffa_04.png" width="160"/> <img src="assets/images/screenshot/kaffa_05.png" width="160"/>
 
 
 
@@ -107,8 +102,7 @@ Github: [https://github.com/HwangByungJo](https://github.com/HwangByungJo)
 * 사용기술 : iOS
 * 서비스종료
 
-<img src="assets/images/screenshot/skylife_screen1.jpeg" width="300"/>
-<img src="assets/images/screenshot/skylife_screen2.jpeg" width="300"/>
+<img src="assets/images/screenshot/skylife_screen1.jpeg" width="300"/> <img src="assets/images/screenshot/skylife_screen2.jpeg" width="300"/>
 
 
 ### 올레펍
@@ -120,12 +114,7 @@ Github: [https://github.com/HwangByungJo](https://github.com/HwangByungJo)
 - 사용기술 : iOS
 - 서비스 종료
 
-<img src="assets/images/screenshot/1_1_iPhone5_올레펍.png" width="160"/>
-<img src="assets/images/screenshot/1_2_iPhone5_올레펍.png" width="160"/>
-<img src="assets/images/screenshot/1_3_iPhone5_올레펍.png" width="160"/>
-<img src="assets/images/screenshot/1_4_iPhone5_올레펍.png" width="160"/>
-<img src="assets/images/screenshot/1_5_iPhone5_올레펍.png" width="160"/>
-<img src="assets/images/screenshot/1_6_iPhone5_올레펍.png" width="160"/>
+<img src="assets/images/screenshot/1_1_iPhone5_올레펍.png" width="160"/> <img src="assets/images/screenshot/1_2_iPhone5_올레펍.png" width="160"/> <img src="assets/images/screenshot/1_3_iPhone5_올레펍.png" width="160"/> <img src="assets/images/screenshot/1_4_iPhone5_올레펍.png" width="160"/> <img src="assets/images/screenshot/1_5_iPhone5_올레펍.png" width="160"/> <img src="assets/images/screenshot/1_6_iPhone5_올레펍.png" width="160"/>
 
 
 
@@ -140,8 +129,4 @@ Github: [https://github.com/HwangByungJo](https://github.com/HwangByungJo)
 - 사용기술 : iOS
 - 서비스 종료
 
-<img src="assets/images/screenshot/2_1_iPhone5_올레펍에디터.png" width="160"/>
-<img src="assets/images/screenshot/2_2_iPhone5_올레펍에디터.png" width="160"/>
-<img src="assets/images/screenshot/2_3_iPhone5_올레펍에디터.png" width="160"/>
-<img src="assets/images/screenshot/2_4_iPhone5_올레펍에디터.png" width="160"/>
-<img src="assets/images/screenshot/2_5_iPhone5_올레펍에디터.png" width="160"/>
+<img src="assets/images/screenshot/2_1_iPhone5_올레펍에디터.png" width="160"/> <img src="assets/images/screenshot/2_2_iPhone5_올레펍에디터.png" width="160"/> <img src="assets/images/screenshot/2_3_iPhone5_올레펍에디터.png" width="160"/> <img src="assets/images/screenshot/2_4_iPhone5_올레펍에디터.png" width="160"/> <img src="assets/images/screenshot/2_5_iPhone5_올레펍에디터.png" width="160"/>
