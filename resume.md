@@ -58,6 +58,9 @@ Github: [https://github.com/HwangByungJo](https://github.com/HwangByungJo)
 - 사용기술 : iOS, Realm, FCM 
 - [AppStore](https://itunes.apple.com/kr/app/%EB%B6%81%ED%8C%94-%EC%9B%B9%EC%86%8C%EC%84%A4/id898129838?mt=8)
 
+<img src="assets/images/screenshot/bookpal_01.png" width="160"/> <img src="assets/images/screenshot/bookpal_02.png" width="160"/> <img src="assets/images/screenshot/bookpal_03.png" width="160"/> <img src="assets/images/screenshot/bookpal_04.png" width="160"/>  <img src="assets/images/screenshot/bookpal_05.png" width="160"/>
+
+
 ### 북팔판타지
 
 웹소설앱, 내책장
@@ -71,7 +74,7 @@ Github: [https://github.com/HwangByungJo](https://github.com/HwangByungJo)
 
 ### 8Talk for Telegram
 
-텔레그램 오픈소스을 이용하여 앱제작, 채팅 방 분류 탭 기능 추가
+텔레그램 오픈소스을 이용, 채팅 방 분류 탭, 스티커, 채널 관련 탭 추가
 
 - 소속: 북팔
 - 역할: iOS 앱 개발
@@ -114,7 +117,7 @@ Github: [https://github.com/HwangByungJo](https://github.com/HwangByungJo)
 - 사용기술 : iOS
 - 서비스 종료
 
-<img src="assets/images/screenshot/1_1_iPhone5_올레펍.png" width="160"/> <img src="assets/images/screenshot/1_2_iPhone5_올레펍.png" width="160"/> <img src="assets/images/screenshot/1_3_iPhone5_올레펍.png" width="160"/> <img src="assets/images/screenshot/1_4_iPhone5_올레펍.png" width="160"/> <img src="assets/images/screenshot/1_5_iPhone5_올레펍.png" width="160"/> <img src="assets/images/screenshot/1_6_iPhone5_올레펍.png" width="160"/>
+<img src="assets/images/screenshot/1_1_iPhone5_ollehpub.png" width="160"/> <img src="assets/images/screenshot/1_2_iPhone5_ollehpub.png" width="160"/> <img src="assets/images/screenshot/1_3_iPhone5_ollehpub.png" width="160"/> <img src="assets/images/screenshot/1_4_iPhone5_ollehpub.png" width="160"/>  <img src="assets/images/screenshot/1_6_iPhone5_ollehpub.png" width="160"/>
 
 
 
@@ -129,4 +132,4 @@ Github: [https://github.com/HwangByungJo](https://github.com/HwangByungJo)
 - 사용기술 : iOS
 - 서비스 종료
 
-<img src="assets/images/screenshot/2_1_iPhone5_올레펍에디터.png" width="160"/> <img src="assets/images/screenshot/2_2_iPhone5_올레펍에디터.png" width="160"/> <img src="assets/images/screenshot/2_3_iPhone5_올레펍에디터.png" width="160"/> <img src="assets/images/screenshot/2_4_iPhone5_올레펍에디터.png" width="160"/> <img src="assets/images/screenshot/2_5_iPhone5_올레펍에디터.png" width="160"/>
+<img src="assets/images/screenshot/2_1_iPhone5_ollehpub_editor.png" width="160"/> <img src="assets/images/screenshot/2_2_iPhone5_ollehpub_editor.png" width="160"/> <img src="assets/images/screenshot/2_3_iPhone5_ollehpub_editor.png" width="160"/> <img src="assets/images/screenshot/2_4_iPhone5_ollehpub_editor.png" width="160"/> <img src="assets/images/screenshot/2_5_iPhone5_ollehpub_editor.png" width="160"/>
