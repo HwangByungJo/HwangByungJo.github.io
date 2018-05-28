@@ -1,11 +1,12 @@
 ---
-title: 이력서
+title: Resume
 subtitle: 
 layout: "page"
 icon: fa-book
 order: 3
 ---
 
+# 이력서
 
 Blog : [http://ideveloper.tistory.com](http://ideveloper.tistory.com)
 
@@ -51,12 +52,16 @@ Github: [https://github.com/HwangByungJo](https://github.com/HwangByungJo)
 
 ### 북팔웹소설
 
+웹소설앱, 내책장, 마이포켓 (내책장2)
+
 - 소속 : 북팔
 - 역할 : iOS 앱 개발
 - 사용기술 : iOS, Realm, FCM 
 - [AppStore](https://itunes.apple.com/kr/app/%EB%B6%81%ED%8C%94-%EC%9B%B9%EC%86%8C%EC%84%A4/id898129838?mt=8)
 
 ### 북팔판타지
+
+웹소설앱, 내책장
 
 - 소속 : 북팔
 - 역할 : iOS 앱 개발
@@ -67,8 +72,10 @@ Github: [https://github.com/HwangByungJo](https://github.com/HwangByungJo)
 
 ### 8Talk for Telegram
 
+텔레그램 오픈소스을 이용하여 앱제작, 채팅 방 분류 탭 기능 추가
+
 - 소속: 북팔
-- 역할: iOS 앱 개발 (텔레그램 오픈소스을 이용하여 앱제작, 채팅 방 분류 탭 기능 추가)
+- 역할: iOS 앱 개발
 - 사용기술: iOS
 - [AppStore](https://itunes.apple.com/kr/app/8talk-for-telegram/id1237423645?mt=8)
 
@@ -76,14 +83,24 @@ Github: [https://github.com/HwangByungJo](https://github.com/HwangByungJo)
 
 ### Kaffa
 
+제품소개, 레시피, 샘플신청 기능
+
 - 소속 : 현원소프트
 - 역할 : iOS 앱 개발
 - 사용기술 : iOS
 - [AppStore](https://itunes.apple.com/kr/app/kaffa/id724295322?mt=8)
 
+<img src="assets/images/screenshot/kaffa_01.png" width="160"/>
+<img src="assets/images/screenshot/kaffa_02.png" width="160"/>
+<img src="assets/images/screenshot/kaffa_03.png" width="160"/>
+<img src="assets/images/screenshot/kaffa_04.png" width="160"/>
+<img src="assets/images/screenshot/kaffa_05.png" width="160"/>
+
 
 
 ### Skylife
+
+스카이라이프 편성표 제공, 예약녹화 기능 
 
 * 소속 : 현원소프트
 * 역할: iOS 앱 개발 
@@ -95,6 +112,8 @@ Github: [https://github.com/HwangByungJo](https://github.com/HwangByungJo)
 
 
 ### 올레펍
+
+분야별로 선호하는 매거진 콘텐츠를 편리하게 구독 및 공유 할수 있는 서비스
 
 - 소속 : 인티그램
 - 역할 : iOS 앱 개발
@@ -112,6 +131,9 @@ Github: [https://github.com/HwangByungJo](https://github.com/HwangByungJo)
 
 
 ### 올레펍 에디터
+
+개인이 글과 사진 등을 간편하게 편집해 매거진으로 출판하고
+소셜네트워크서비스(SNS)를 통해 공유할 수 있는 서비스
 
 - 소속 : 인티그램
 - 역할 : iOS 앱 개발
