@@ -49,7 +49,7 @@ Github: [https://github.com/HwangByungJo](https://github.com/HwangByungJo)
 
 ## 프로젝트
 
-### 북팔웹소설
+### 북팔웹소설  (Universal)
 
 웹소설앱, 내책장, 마이포켓 (내책장2)
 
@@ -61,7 +61,7 @@ Github: [https://github.com/HwangByungJo](https://github.com/HwangByungJo)
 <img src="assets/images/screenshot/bookpal_01.png" width="160"/> <img src="assets/images/screenshot/bookpal_02.png" width="160"/> <img src="assets/images/screenshot/bookpal_03.png" width="160"/> <img src="assets/images/screenshot/bookpal_04.png" width="160"/>  <img src="assets/images/screenshot/bookpal_05.png" width="160"/>
 
 
-### 북팔판타지
+### 북팔판타지  (Universal)
 
 웹소설앱, 내책장
 
@@ -74,7 +74,7 @@ Github: [https://github.com/HwangByungJo](https://github.com/HwangByungJo)
 
 
 
-### 8Talk for Telegram
+### 8Talk for Telegram  (Universal)
 
 텔레그램 오픈소스을 이용, 채팅 방 분류 탭, 스티커, 채널 관련 탭 추가
 
@@ -85,7 +85,7 @@ Github: [https://github.com/HwangByungJo](https://github.com/HwangByungJo)
 
 
 
-### Kaffa
+### Kaffa (Universal)
 
 제품소개, 레시피, 샘플신청 기능
 
@@ -98,7 +98,7 @@ Github: [https://github.com/HwangByungJo](https://github.com/HwangByungJo)
 
 
 
-### Skylife
+### Skylife (iPhone, iPad)
 
 스카이라이프 편성표 제공, 예약녹화 기능 
 
@@ -107,10 +107,10 @@ Github: [https://github.com/HwangByungJo](https://github.com/HwangByungJo)
 * 사용기술 : iOS
 * 서비스종료
 
-<img src="assets/images/screenshot/skylife_screen1.jpeg" width="300"/> <img src="assets/images/screenshot/skylife_screen2.jpeg" width="300"/>
+<img src="assets/images/screenshot/skylife_01.jpeg" width="300"/> <img src="assets/images/screenshot/skylife_02.jpeg" width="300"/>
 
 
-### 올레펍
+### 올레펍 (iPhone, iPad)
 
 분야별로 선호하는 매거진 콘텐츠를 편리하게 구독 및 공유 할수 있는 서비스
 
@@ -120,14 +120,13 @@ Github: [https://github.com/HwangByungJo](https://github.com/HwangByungJo)
 - 서비스 종료
 
 #### iPhone
-<img src="assets/images/screenshot/1_1_iPhone5_ollehpub.png" width="160"/> <img src="assets/images/screenshot/1_2_iPhone5_ollehpub.png" width="160"/> <img src="assets/images/screenshot/1_3_iPhone5_ollehpub.png" width="160"/> <img src="assets/images/screenshot/1_4_iPhone5_ollehpub.png" width="160"/>  <img src="assets/images/screenshot/1_6_iPhone5_ollehpub.png" width="160"/>
+<img src="assets/images/screenshot/ollehpub_iPhone5_01.png" width="160"/>  <img src="assets/images/screenshot/ollehpub_iPhone5_02.png" width="160"/>  <img src="assets/images/screenshot/ollehpub_iPhone5_03.png" width="160"/>  <img src="assets/images/screenshot/ollehpub_iPhone5_04.png" width="160"/>  <img src="assets/images/screenshot/ollehpub_iPhone5_05.png" width="160"/> 
 
 #### iPad
-<img src="assets/images/screenshot/1_1_iPad_ollehpub.png" width="160"/> <img src="assets/images/screenshot/1_2_iPad_ollehpub.png" width="160"/> <img src="assets/images/screenshot/1_3_iPad_ollehpub.png" width="160"/> <img src="assets/images/screenshot/1_4_iPad_ollehpub.png" width="160"/> <img src="assets/images/screenshot/1_5_iPad_ollehpub.png" width="160"/>
+<img src="assets/images/screenshot/ollehpub_ipad_01.png" width="160"/> <img src="assets/images/screenshot/ollehpub_ipad_02.png" width="160"/> <img src="assets/images/screenshot/ollehpub_ipad_03.png" width="160"/> <img src="assets/images/screenshot/ollehpub_ipad_04.png" width="160"/> <img src="assets/images/screenshot/ollehpub_ipad_05.png" width="160"/> 
 
 
-
-### 올레펍 에디터
+### 올레펍 에디터 (iPhone, iPad)
 
 개인이 글과 사진 등을 간편하게 편집해 매거진으로 출판하고
 소셜네트워크서비스(SNS)를 통해 공유할 수 있는 서비스
@@ -138,7 +137,7 @@ Github: [https://github.com/HwangByungJo](https://github.com/HwangByungJo)
 - 서비스 종료
 
 #### iPhone
-<img src="assets/images/screenshot/2_1_iPhone5_ollehpub_editor.png" width="160"/> <img src="assets/images/screenshot/2_2_iPhone5_ollehpub_editor.png" width="160"/> <img src="assets/images/screenshot/2_3_iPhone5_ollehpub_editor.png" width="160"/> <img src="assets/images/screenshot/2_4_iPhone5_ollehpub_editor.png" width="160"/> <img src="assets/images/screenshot/2_5_iPhone5_ollehpub_editor.png" width="160"/>
+<img src="assets/images/screenshot/ollehpub_editor_iPhone5_01.png" width="160"/> <img src="assets/images/screenshot/ollehpub_editor_iPhone5_02.png" width="160"/> <img src="assets/images/screenshot/ollehpub_editor_iPhone5_03.png" width="160"/><img src="assets/images/screenshot/ollehpub_editor_iPhone5_04.png" width="160"/> <img src="assets/images/screenshot/ollehpub_editor_iPhone5_05.png" width="160"/>
 
 #### iPad
-<img src="assets/images/screenshot/2_1_iPad_ollehpub_editor.png" width="160"/> <img src="assets/images/screenshot/2_2_iPad_ollehpub_editor.png" width="160"/> <img src="assets/images/screenshot/2_3_iPad_ollehpub_editor.png" width="160"/> <img src="assets/images/screenshot/2_4_iPad_ollehpub_editor.png" width="160"/> <img src="assets/images/screenshot/2_5_iPad_ollehpub_editor.png" width="160"/>
+<img src="assets/images/screenshot/ollehpub_editor_iPad_01.png" width="160"/> <img src="assets/images/screenshot/ollehpub_editor_iPad_02.png" width="160"/>  <img src="assets/images/screenshot/ollehpub_editor_iPad_03.png" width="160"/>  <img src="assets/images/screenshot/ollehpub_editor_iPad_04.png" width="160"/>  <img src="assets/images/screenshot/ollehpub_editor_iPad_05.png" width="160"/> 
