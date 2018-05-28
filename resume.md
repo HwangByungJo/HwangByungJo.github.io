@@ -107,7 +107,17 @@ Github: [https://github.com/HwangByungJo](https://github.com/HwangByungJo)
 * 사용기술 : iOS
 * 서비스종료
 
-<img src="assets/images/screenshot/skylife_01.jpeg" width="300"/> <img src="assets/images/screenshot/skylife_02.jpeg" width="300"/>
+<img src="assets/images/screenshot/skylife_01.png" width="300"/> <img src="assets/images/screenshot/skylife_02.jpeg" width="300"/>  <img src="assets/images/screenshot/skylife_03.jpeg" width="300"/> 
+
+### B2Y (iPhone, iPad)
+
+- 소속 : 인티그램
+- 역할 : iOS 앱 개발
+- 사용기술 : iOS
+- 서비스 종료
+
+#### iPad
+<img src="assets/images/screenshot/B2Y_iPad_01.png" width="160"/> <img src="assets/images/screenshot/B2Y_iPad_02.png" width="160"/> <img src="assets/images/screenshot/B2Y_iPad_03.png" width="160"/> <img src="assets/images/screenshot/B2Y_iPad_04.png" width="160"/> <img src="assets/images/screenshot/B2Y_iPad_05.png" width="160"/> <img src="assets/images/screenshot/B2Y_iPad_06.png" width="160"/>
 
 
 ### 올레펍 (iPhone, iPad)
