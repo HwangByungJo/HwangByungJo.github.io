@@ -123,7 +123,7 @@ Github: [https://github.com/HwangByungJo](https://github.com/HwangByungJo)
 <img src="assets/images/screenshot/ollehpub_iPhone5_01.png" width="160"/>  <img src="assets/images/screenshot/ollehpub_iPhone5_02.png" width="160"/>  <img src="assets/images/screenshot/ollehpub_iPhone5_03.png" width="160"/>  <img src="assets/images/screenshot/ollehpub_iPhone5_04.png" width="160"/>  <img src="assets/images/screenshot/ollehpub_iPhone5_05.png" width="160"/> 
 
 #### iPad
-<img src="assets/images/screenshot/ollehpub_ipad_01.png" width="160"/> <img src="assets/images/screenshot/ollehpub_ipad_02.png" width="160"/> <img src="assets/images/screenshot/ollehpub_ipad_03.png" width="160"/> <img src="assets/images/screenshot/ollehpub_ipad_04.png" width="160"/> <img src="assets/images/screenshot/ollehpub_ipad_05.png" width="160"/> 
+<img src="assets/images/screenshot/ollehpub_iPad_01.png" width="160"/> <img src="assets/images/screenshot/ollehpub_iPad_02.png" width="160"/> <img src="assets/images/screenshot/ollehpub_iPad_03.png" width="160"/> <img src="assets/images/screenshot/ollehpub_iPad_04.png" width="160"/> <img src="assets/images/screenshot/ollehpub_iPad_05.png" width="160"/> 
 
 
 ### 올레펍 에디터 (iPhone, iPad)
