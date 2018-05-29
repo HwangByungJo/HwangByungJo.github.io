@@ -29,7 +29,7 @@ Github: [https://github.com/HwangByungJo](https://github.com/HwangByungJo)
 
 
 
-[푸드앤텔레콤] 
+[푸드앤텔레콤](http://food-n.co.kr/)
 
 - 2015/02 ~ 2015/05
 
