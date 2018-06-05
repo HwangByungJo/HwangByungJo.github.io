@@ -1,5 +1,5 @@
 ---
-title: HelloWorld
+title: strong, weak, unowned - Reference Counting in Swift
 author: HwangByungJo
 layout: post
 ---
