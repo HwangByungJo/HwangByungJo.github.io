@@ -109,7 +109,13 @@ Github: [https://github.com/HwangByungJo](https://github.com/HwangByungJo)
 * 사용기술 : iOS
 * 서비스종료
 
-<img src="assets/images/screenshot/skylife_01.png" width="300"/> <img src="assets/images/screenshot/skylife_02.jpeg" width="300"/>  <img src="assets/images/screenshot/skylife_03.jpeg" width="300"/> 
+<img src="assets/images/screenshot/skylife_01.png" width="300"/> 
+<img src="assets/images/screenshot/skylife_02.jpeg" width="300"/>  
+<img src="assets/images/screenshot/skylife_03.jpeg" width="300"/> 
+<img src="assets/images/screenshot/skylife_04.jpg" width="300"/> 
+
+<img src="assets/images/screenshot/skylife_05.jpg" width="160"/> 
+<img src="assets/images/screenshot/skylife_06.jpg" width="160"/> 
 
 ### 아너소사이어티 (iPhone, iPad)
 
