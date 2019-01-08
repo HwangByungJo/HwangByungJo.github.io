@@ -17,6 +17,11 @@ Github: [https://github.com/HwangByungJo](https://github.com/HwangByungJo)
 
 ## 경력
 
+[기웅정보통신](http://www.kwic.co.kr/)
+
+- 2018/07/02 ~ 재직중
+
+
 [북팔](https://novel.bookpal.co.kr/)
 
 - 2015/11/02 ~ 2018/05/31
