@@ -70,7 +70,7 @@ Github: [https://github.com/HwangByungJo](https://github.com/HwangByungJo)
 - 사용기술 :
 - [AppStore](https://itunes.apple.com/kr/app/%EC%8B%A4%EC%86%90%EB%B3%B4%ED%97%98-%EB%B0%94%EB%A1%9C%EC%B2%AD%EA%B5%AC/id1296713322?mt=8)
 
-<img src="assets/images/screenshot/baro_01.png" width="160"/> <img src="assets/images/screenshot/baro_02.png" width="160"/><img src="assets/images/screenshot/baro_03.png" width="160"/> <img src="assets/images/screenshot/baro_04.png" width="160"/>
+<img src="assets/images/screenshot/baro_01.PNG" width="160"/> <img src="assets/images/screenshot/baro_02.PNG" width="160"/><img src="assets/images/screenshot/baro_03.PNG" width="160"/> <img src="assets/images/screenshot/baro_04.PNG" width="160"/>
 
 
 ### 북팔웹소설  (Universal)
