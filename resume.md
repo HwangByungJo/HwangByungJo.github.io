@@ -66,7 +66,7 @@ Github: [https://github.com/HwangByungJo](https://github.com/HwangByungJo)
 ### 바로청구 
 
 - 소속 : 기웅정보통신
-- 혁할 : iOS 앱 유지보수
+- 역할 : iOS 앱 유지보수
 - 사용기술 :
 - [AppStore](https://itunes.apple.com/kr/app/%EC%8B%A4%EC%86%90%EB%B3%B4%ED%97%98-%EB%B0%94%EB%A1%9C%EC%B2%AD%EA%B5%AC/id1296713322?mt=8)
 
