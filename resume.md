@@ -57,6 +57,8 @@ order: 3
 
 ### 퀵파인드
 
+ 국세청 홈택스 및 민원24 등에서 발급가능한 고객증명서 및 기업의 현장사진을 금융기관 및 공공기관에 스마트폰을 이용하여 비대면으로 실시간 제출하는 핀테크 서비스입니다.
+ 
 - 소속 : 기웅정보통신
 - 역할 : iOS 앱 유지보수
 - 사용기술 : Objecitiv-C
@@ -65,6 +67,8 @@ order: 3
 <img src="assets/images/screenshot/qFind_01.png" width="160"/> <img src="assets/images/screenshot/qFind_02.png" width="160"/> <img src="assets/images/screenshot/qFind_03.png" width="160"/> <img src="assets/images/screenshot/qFind_04.png" width="160"/> 
 
 ### 바로청구 
+
+ 내보험 다보여 조회기능, 보험사 상세 정보 조회기능, 청구서 전송
 
 - 소속 : 기웅정보통신
 - 역할 : iOS 앱 유지보수
@@ -76,7 +80,7 @@ order: 3
 
 ### 북팔웹소설  (Universal)
 
-웹소설앱, 내책장, 마이포켓 (내책장2)
+ 웹소설앱, 웹소설 뷰어, 내책장(회차 다운로드)
 
 - 소속 : 북팔
 - 역할 : iOS 앱 개발
@@ -88,7 +92,7 @@ order: 3
 
 ### 북팔판타지  (Universal)
 
-웹소설앱, 내책장
+웹소설앱, 웹소설 뷰어, 내책장(회차 다운로드)
 
 - 소속 : 북팔
 - 역할 : iOS 앱 개발
