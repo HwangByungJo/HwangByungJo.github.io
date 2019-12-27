@@ -53,7 +53,7 @@ order: 3
 
 - 소속: 기웅정보통신
 - 역할 : 스크래핑 엔진 개발 
-- 사용기술 : Objecitiv-C
+- 사용기술 : Objective-C
 
 ### 퀵파인드
 
@@ -61,7 +61,7 @@ order: 3
  
 - 소속 : 기웅정보통신
 - 역할 : iOS 앱 유지보수
-- 사용기술 : Objecitiv-C
+- 사용기술 : Objective-C
 - [AppStore](https://itunes.apple.com/kr/app/%ED%80%B5%ED%8C%8C%EC%9D%B8%EB%93%9C/id1111949185?mt=8)
 
 <img src="assets/images/screenshot/qFind_01.png" width="160"/> <img src="assets/images/screenshot/qFind_02.png" width="160"/> <img src="assets/images/screenshot/qFind_03.png" width="160"/> <img src="assets/images/screenshot/qFind_04.png" width="160"/> 
@@ -84,7 +84,7 @@ order: 3
 
 - 소속 : 북팔
 - 역할 : iOS 앱 개발
-- 사용기술 : Objecitive-C, Realm, FCM 
+- 사용기술 : Objective-C, Realm, FCM 
 - [AppStore](https://itunes.apple.com/kr/app/%EB%B6%81%ED%8C%94-%EC%9B%B9%EC%86%8C%EC%84%A4/id898129838?mt=8)
 
 <img src="assets/images/screenshot/bookpal_01.png" width="160"/> <img src="assets/images/screenshot/bookpal_02.png" width="160"/> <img src="assets/images/screenshot/bookpal_03.png" width="160"/> <img src="assets/images/screenshot/bookpal_04.png" width="160"/>  <img src="assets/images/screenshot/bookpal_05.png" width="160"/>
@@ -96,7 +96,7 @@ order: 3
 
 - 소속 : 북팔
 - 역할 : iOS 앱 개발
-- 사용기술 : Objecitive-C, Realm, FCM 
+- 사용기술 : Objective-C, Realm, FCM 
 - [AppStore](https://itunes.apple.com/kr/app/%EB%B6%81%ED%8C%94%ED%8C%90%ED%83%80%EC%A7%80/id1094115877?mt=8)
 
 <img src="assets/images/screenshot/bookpal_fantasy_01.png" width="160"/> <img src="assets/images/screenshot/bookpal_fantasy_02.png" width="160"/> <img src="assets/images/screenshot/bookpal_fantasy_03.png" width="160"/> <img src="assets/images/screenshot/bookpal_fantasy_04.png" width="160"/> <img src="assets/images/screenshot/bookpal_fantasy_05.png" width="160"/> 
@@ -109,7 +109,7 @@ order: 3
 
 - 소속: 북팔
 - 역할: iOS 앱 개발
-- 사용기술: Objecitive-C
+- 사용기술: Objective-C
 - [AppStore](https://itunes.apple.com/kr/app/8talk-for-telegram/id1237423645?mt=8)
 
 <img src="assets/images/screenshot/8talk_01.png" width="160"/> <img src="assets/images/screenshot/8talk_02.png" width="160"/>
@@ -122,7 +122,7 @@ order: 3
 
 - 소속 : 현원소프트
 - 역할 : iOS 앱 개발
-- 사용기술 : Objecitive-C
+- 사용기술 : Objective-C
 - [AppStore](https://itunes.apple.com/kr/app/kaffa/id724295322?mt=8)
 
 <img src="assets/images/screenshot/kaffa_01.png" width="160"/> <img src="assets/images/screenshot/kaffa_02.png" width="160"/> <img src="assets/images/screenshot/kaffa_03.png" width="160"/> <img src="assets/images/screenshot/kaffa_04.png" width="160"/> <img src="assets/images/screenshot/kaffa_05.png" width="160"/>
@@ -135,7 +135,7 @@ order: 3
 
 - 소속 : 현원소프트
 - 역할: iOS 앱 개발 
-- 사용기술 : Objecitive-C
+- 사용기술 : Objective-C
 
 #### iPad
 <img src="assets/images/screenshot/skylife_01.png" width="300"/> <img src="assets/images/screenshot/skylife_02.jpeg" width="300"/>  <img src="assets/images/screenshot/skylife_03.jpeg" width="300"/> <img src="assets/images/screenshot/skylife_04.jpg" width="300"/> 
