@@ -1,6 +1,6 @@
 ---
 title: strong, weak, unowned - Reference Counting in Swift
-author: HwangByungJo
+author: NaStillmatic
 layout: post
 ---
 
