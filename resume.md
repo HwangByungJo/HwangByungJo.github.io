@@ -55,6 +55,18 @@ order: 3
 - 역할 : 스크래핑 엔진 개발 
 - 사용기술 : Objective-C
 
+### 현대카드, 현대캐피탈 (자산관리 메뉴)
+
+현다카드, 현대캐피탈 앱
+
+- 소속 : 기웅정보통신
+- 역할 : 현대카드, 현캐피탈 자산관리 메뉴 개발 (iOS)
+- 사용기술 : Swift (현대카드) Objecitve-c (현대 캐피탈)
+- [AppStore](https://apps.apple.com/kr/app/%ED%98%84%EB%8C%80%EC%B9%B4%EB%93%9C/id702653088)   
+
+<img src="assets/images/screenshot/pfm_01.png" width="160"/> <img src="assets/images/screenshot/pfm_02.png" width="160"/> <img src="assets/images/screenshot/pfm_03.png" width="160"/> <img src="assets/images/screenshot/pfm_04.png" width="160"/> <img src="assets/images/screenshot/pfm_04.png" width="160"/> <img src="assets/images/screenshot/pfm_05.png" width="160"/>  <img src="assets/images/screenshot/pfm_06.png" width="160"/> <img src="assets/images/screenshot/pfm_07.png" width="160"/> <img src="assets/images/screenshot/pfm_08.png" width="160"/> 
+
+
 ### 퀵파인드
 
  국세청 홈택스 및 민원24 등에서 발급가능한 고객증명서 및 기업의 현장사진을 금융기관 및 공공기관에 스마트폰을 이용하여 비대면으로 실시간 제출하는 핀테크 서비스입니다.
