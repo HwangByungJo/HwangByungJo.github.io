@@ -60,7 +60,7 @@ order: 3
 현다카드, 현대캐피탈 앱
 
 - 소속 : 기웅정보통신
-- 역할 : 현대카드, 현캐피탈 자산관리 메뉴 개발 (iOS)
+- 역할 : 현대카드, 현대캐피탈 자산관리 메뉴 개발 (iOS)
 - 사용기술 : Swift (현대카드) Objecitve-c (현대 캐피탈)
 - [AppStore](https://apps.apple.com/kr/app/%ED%98%84%EB%8C%80%EC%B9%B4%EB%93%9C/id702653088)   
 
