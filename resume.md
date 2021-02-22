@@ -64,7 +64,7 @@ order: 3
 - 사용기술 : Swift (현대카드) Objecitve-c (현대 캐피탈)
 - [AppStore](https://apps.apple.com/kr/app/%ED%98%84%EB%8C%80%EC%B9%B4%EB%93%9C/id702653088)   
 
-<img src="assets/images/screenshot/pfm_01.png" width="160"/> <img src="assets/images/screenshot/pfm_02.png" width="160"/> <img src="assets/images/screenshot/pfm_03.png" width="160"/> <img src="assets/images/screenshot/pfm_04.png" width="160"/> <img src="assets/images/screenshot/pfm_04.png" width="160"/> <img src="assets/images/screenshot/pfm_05.png" width="160"/>  <img src="assets/images/screenshot/pfm_06.png" width="160"/> <img src="assets/images/screenshot/pfm_07.png" width="160"/> <img src="assets/images/screenshot/pfm_08.png" width="160"/> 
+<img src="assets/images/screenshot/pfm_01.png" width="160"/> <img src="assets/images/screenshot/pfm_02.png" width="160"/> <img src="assets/images/screenshot/pfm_03.png" width="160"/> <img src="assets/images/screenshot/pfm_04.png" width="160"/> <img src="assets/images/screenshot/pfm_05.png" width="160"/>  <img src="assets/images/screenshot/pfm_06.png" width="160"/> <img src="assets/images/screenshot/pfm_07.png" width="160"/> 
 
 
 ### 퀵파인드
