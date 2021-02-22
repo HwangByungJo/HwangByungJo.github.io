@@ -61,7 +61,7 @@ order: 3
 
 - 소속 : 기웅정보통신
 - 역할 : 기웅솔루션인 스크래핑 모듈을 사용하여 현대카드, 현대캐피탈 자산관리 메뉴 개발 (iOS)
-- 사용기술 : Swift (현대카드) Objetive-c (현대 캐피탈)
+- 사용기술 : Swift (현대카드) Objective-c (현대 캐피탈)
 - [AppStore](https://apps.apple.com/kr/app/%ED%98%84%EB%8C%80%EC%B9%B4%EB%93%9C/id702653088)   
 
 <img src="assets/images/screenshot/pfm_01.png" width="160"/> <img src="assets/images/screenshot/pfm_02.png" width="160"/> <img src="assets/images/screenshot/pfm_03.png" width="160"/> <img src="assets/images/screenshot/pfm_04.png" width="160"/> <img src="assets/images/screenshot/pfm_05.png" width="160"/>  <img src="assets/images/screenshot/pfm_06.png" width="160"/> <img src="assets/images/screenshot/pfm_07.png" width="160"/> 
